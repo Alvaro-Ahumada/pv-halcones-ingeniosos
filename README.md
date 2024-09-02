@@ -38,7 +38,7 @@
 
 ### Consuelo Pérez Pérez- Concept Artist
 
-<img src=consuelo.png>
+<img src="https://avatars.githubusercontent.com/u/152025892?s=400&u=b7d336cf626f8753bbe62483676c751adf70e867&v=4" width="280px">
 
 **Ubicación:** *Corozal, Sucre - Colombia*
 
