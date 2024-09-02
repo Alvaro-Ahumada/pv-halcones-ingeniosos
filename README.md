@@ -49,3 +49,15 @@
 *Soy pasionada y dedicada, con una sólida formación en Ingeniería Multimedia y un enfoque creativo en el diseño de personajes, entornos, y mundos visuales. Mi experiencia abarca desde la creación de conceptos visuales únicos y estilizados hasta la elaboración de soluciones creativas que capturan la esencia de cada proyecto.*
 
 <hr>
+
+### Luis Fernando Garcia- Concept Artist
+
+<img src="https://avatars.githubusercontent.com/u/180046121?v=4" width="280px">
+
+**Ubicación:** *Sincelejo, Sucre - Colombia*
+
+**Perfil:**
+
+*Como entusiasta de los efectos especiales, me fascina cómo se pueden crear mundos virtuales tan realistas y cautivadores. Actualmente estoy aprendiendo a programar en C# con Unity y estoy explorando técnicas de animación 3D para crear personajes y entornos detallados. Mi objetivo a largo plazo es desarrollar un juego de acción en tercera persona con gráficos de alta calidad y efectos visuales impresionantes.*
+
+<hr>
