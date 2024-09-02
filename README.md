@@ -35,3 +35,15 @@
 *Apasionada de los videojuegos, la edición de videos y los efectos especiales. Me encanta trabajar en equipo y el intercambio de ideas, ya que creo que es la mejor forma de lograr resultados increíbles. He explorado el modelado 3D con Blender y he tenido la oportunidad de trabajar en proyectos dentro de Unity, lo que me ha dado una visión más amplia del proceso de creación de videojuegos. También tengo nociones en Photoshop, Illustrator y After Effects, herramientas que utilizo para la edición y la creación de contenido multimedia. Mi objetivo en este curso es superar los retos que se nos presenten y lograr un excelente rendimiento colaborativo. Estoy comprometida en aprender los conceptos básicos necesarios para la creación de un videojuego, y espero que juntos podamos alcanzar resultados excepcionales. Además, quiero profundizar en la programación y creación de videojuegos con la esperanza de llevar a cabo un emocionante proyecto en el futuro.*
 
 <hr>
+
+### Consuelo Pérez Pérez- Concept Artist
+
+<img src=consuelo.png>
+
+**Ubicación:** *Corozal, Sucre - Colombia*
+
+**Perfil:**
+
+*Soy pasionada y dedicada, con una sólida formación en Ingeniería Multimedia y un enfoque creativo en el diseño de personajes, entornos, y mundos visuales. Mi experiencia abarca desde la creación de conceptos visuales únicos y estilizados hasta la elaboración de soluciones creativas que capturan la esencia de cada proyecto.*
+
+<hr>
