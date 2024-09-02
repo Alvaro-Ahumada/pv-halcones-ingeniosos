@@ -50,7 +50,7 @@
 
 <hr>
 
-### Luis Fernando Garcia- Concept Artist
+### Luis Fernando Garcia- FX Artist - Games
 
 <img src="https://avatars.githubusercontent.com/u/180046121?v=4" width="280px">
 
